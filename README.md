@@ -1,0 +1,1 @@
+Aktualizace dat k èlánku s indexem demokracie pro rok 2018

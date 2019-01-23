@@ -4,6 +4,9 @@
 #graf {
     height: 600px;
 }
+text:nth-child(10) {
+    font-weight: bold;
+}
 @media (max-width: 768px) {
     #container {
         height: 310px;
